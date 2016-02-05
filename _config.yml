@@ -1,0 +1,28 @@
+name: Ben Laube
+favicon: null
+layout_spectrum: 0.2940989623311907
+typography_spectrum: 0.1750647802837193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.028075188165530562
+  lightness: 0.8058882742188871
+  saturation: 0.8107721915002912
+  rhythmicContrast: 0.2512709789443761
+purpose: []
